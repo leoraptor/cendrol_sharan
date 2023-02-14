@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cendrol_sharan/static/css/main.d46df79f.css",
+    "main.js": "/cendrol_sharan/static/js/main.089bb1cf.js",
+    "index.html": "/cendrol_sharan/index.html",
+    "main.d46df79f.css.map": "/cendrol_sharan/static/css/main.d46df79f.css.map",
+    "main.089bb1cf.js.map": "/cendrol_sharan/static/js/main.089bb1cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d46df79f.css",
+    "static/js/main.089bb1cf.js"
+  ]
+}
