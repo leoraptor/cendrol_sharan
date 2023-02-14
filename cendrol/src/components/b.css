@@ -1,0 +1,17 @@
+.bcontainer {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  height: 200px;
+  width: 200px;
+  background: #ffe100;
+  border-radius: 500px;
+}
+
+.b-btn {
+  border: none;
+  background: #ffe100;
+  text-decoration: underline;
+}
